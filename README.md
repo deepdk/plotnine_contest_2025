@@ -2,11 +2,7 @@
 
 This project explores generative Truchet tile patterns built in Python with the `plotnine` plotting library. The notebook walks through assembling a repeating grid of curved tiles, styling the segments with a bold four-color palette, and exporting the final design-ready artwork.
 
-## Palette
-- `#FE0300` – electric red accent
-- `#FFF101` – luminous yellow contrast
-- `#0101FC` – vivid blue base
-- `#DDDCDD` – soft neutral to balance saturation
+![alt text](image.png) | ![alt text](image-1.png)
 
 ## Repository Contents
 - `tiles.ipynb` – Jupyter notebook that constructs and styles the Truchet tile grid with plotnine
@@ -27,7 +23,5 @@ This project explores generative Truchet tile patterns built in Python with the 
 ## Customization Tips
 - Adjust the palette by editing the color list near the styling section of the notebook.
 - Experiment with tile orientations, grid size, and stroke widths to explore new compositions.
-- Use `ggsave` (via plotnine) to export high-resolution outputs for print or web.
 
-## Credits
-Created by Deepali Kank using the plotnine grammar of graphics for Python.
+
